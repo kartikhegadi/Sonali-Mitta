@@ -1,0 +1,10 @@
+Agenda:
+=======================
+Multi container pod
+troubleshoot pod failure
+Service object 
+ - ClusterIP
+ - Node Port
+ - Load Balancer
+Deployment
+ - replicaSet
